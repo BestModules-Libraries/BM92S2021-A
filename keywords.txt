@@ -1,0 +1,25 @@
+﻿# Coloring Map For （ ）
+##############################################
+##############################################
+# Classes and Objects (KEYWORD1)
+##############################################
+BM92S2021_A	KEYWORD1
+##############################################
+# Methods and Functions (KEYWORD2)
+##############################################
+begin	KEYWORD2
+reset	KEYWORD2
+standby	KEYWORD2
+getFWVer	KEYWORD2
+remoteWU	KEYWORD2
+openLED	KEYWORD2
+closeLED	KEYWORD2
+getColor	KEYWORD2
+readAmbientLight	KEYWORD2
+readRGBColor	KEYWORD2
+setEID	KEYWORD2
+calibrateWhiteBalance	KEYWORD2
+setRemoteWUThre	KEYWORD2
+##############################################
+# Constants (LITERAL1)
+##############################################
