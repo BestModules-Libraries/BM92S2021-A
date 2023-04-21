@@ -2,12 +2,12 @@
 <img src="https://github.com/BestModules-Libraries/img/blob/main/BMH63K203_V1.0.png" width="480" height="240"> 
 </div> 
 
-BMH06203 
+BM92S2021-A 
 ===========================================================
 
-The Best Modules BMH06203 is an IR thermometry module, which uses the I2C communication method. This document provides the description of the BMH06203 Arduino Lib functions and how to install the Arduino Lib. The example demonstrates the function of obtaining the object surface temperature value.
+BM92S2021-A is a color recognition module launched by Flextron, which uses 9-bit single-wire bidirectional UART communication Letter way.This document describes how to install Arduino Lib on the BM92S2021-A Arduino Lib function. The example demonstrates features such as getting colors.
 
-This library can be installed via the Arduino Library manager. Search for **BMH06203 **. 
+This library can be installed via the Arduino Library manager. Search for **BM92S2021-A**. 
 
 Repository Contents
 -------------------
@@ -20,7 +20,7 @@ Repository Contents
 Documentation 
 -------------------
 
-* **[BMH06203 Arduino Library V1.0.1 Description v100]( https://www.bestmodulescorp.com/bmh06203.html#tab-product2 )** - Arduino Library Description.
+* **[BM92S2021-A Arduino Library V1.0.1 Description v100]( https://www.bestmodulescorp.com/bm92s2021-a.html#tab-product2 )** - Arduino Library Description.
 
 Version History  
 -------------------
