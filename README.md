@@ -7,6 +7,16 @@ BM92S2021-A
 
 BM92S2021-A is a color recognition module launched by Flextron, which uses 9-bit single-wire bidirectional UART communication method.This document describes how to install Arduino Lib on the BM92S2021-A Arduino Lib function. The example demonstrates features such as getting colors.
 
+#### Applicable types:
+<div align=center>
+
+|Part No.   |Description                   |
+|:---------:|:----------------------------:|
+|BM92S2021-A|color recognition module|
+|BMA92K202  |color recognition module,contains an adapter board, a connection Line and the BM92S2021-A module |
+
+</div> 
+
 This library can be installed via the Arduino Library manager. Search for **BM92S2021-A**. 
 
 Repository Contents
